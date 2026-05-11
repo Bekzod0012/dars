@@ -24,10 +24,13 @@
 # else:
 #     print("Video yuklandi...")
     
-    # 11-vazifa:
-n = input("uch xonali son kiriting: ")
-print(n[0] + n[2])
+#     # 11-vazifa:
+# n = input("uch xonali son kiriting: ")
+# print(n[0] + n[2])
 
-# 12-vazifa:
-n = input("tort xonali son kiriting: ")
-print(n[1:] + n[0])
+# # 12-vazifa:
+# n = input("tort xonali son kiriting: ")
+# print(n[1:] + n[0])
+
+
+print("hello")
